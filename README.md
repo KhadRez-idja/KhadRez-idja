@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhadRez-idja
-- 👀 I’m interested in mobile development 
-- 🌱 I’m currently still  learning react native
+- 👀 I’m interested in mobile  app development & Ai & data science 
+- 🌱 I’m currently learning react native & machine learning 
 - 💞️ I’m looking to collaborate on productivity mobile apps
 - 📫 How to reach me khadidjarezigui62@gmail.com
 - 😄 Pronouns: she/her
