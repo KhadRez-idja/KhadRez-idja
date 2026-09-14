@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KhadRez-idja
-- 👀 I’m interested in mobile  Software development & BI & data science 
+- 👀 I’m interested in mobile development & BI & data science 
 
 <!---
 KhadRez-idja/KhadRez-idja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
